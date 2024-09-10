@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Win79 - win79.co.com - cổng game trực tuyến cung cấp hơn 300 tựa game cá cược khác nhau
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Win79 <https://win79.co.com/>`_ là cổng game trực tuyến cung cấp hơn 300 tựa game cá cược khác nhau, mang đến sự đa dạng. Cổng game Win 79 là cổng game thế hệ mới với hình thức nạp rút nhanh chóng, khuyến mãi hấp dẫn. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 196 Nguyễn Lương Bằng, Quang Trung, Đống Đa, Hà Nội, Việt Nam. 100000. 
 
-   This project is under active development.
+Phone: 0389198199. 
 
-Contents
---------
+Email: win79cocom@gmail.com. 
 
-.. toctree::
+Website: https://win79.co.com/
 
-   usage
-   api
+#win79 #nhacaiwin79 #trangchuwin79 #dangkywin79 #linkwin79
